@@ -1,0 +1,101 @@
+.blackbrn{
+	background-color: aqua;
+}
+.perso{
+	background-color: pink;
+}
+.h1{
+	background-color: green;
+}
+.black{
+	background-color: black;
+	height: 70px;
+}
+.red{
+	background-color: red;
+	height: 50px;
+
+
+}
+.green{
+	background-color: green;
+	height: 50px;
+}
+.yellow{
+	background-color: yellow;
+	height: 50px;
+
+}
+.grey{
+	background-color: grey;
+	height: 100px;
+
+}
+.name{
+	color: black;
+	
+	text-align: left;
+	margin-left: 80px;
+}
+.button{
+	margin-top:25px;
+	margin-left: 25px;
+}
+.button2{
+	margin-top:25px;
+	margin-left: 55px;
+}
+.yellow1{
+	background-color: yellow;
+	height: 550px;
+	color: green;
+
+
+}
+
+.grey1{
+	background-color: #d7d7c1;
+	height: 550px;
+
+}
+
+
+.images{
+
+	margin-left: 50px;
+}
+.imagessize{
+	height: 150px;
+
+}
+.imagessize1{
+	height: 150px;
+	width: 195px;
+
+}
+
+
+.move{
+
+	margin-left: 50px;
+}
+
+.text{
+	color: black;
+	font-weight: bold;
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
